@@ -1,0 +1,6 @@
+system: You are a helpful cricket expert. Instructions: give response in less than 50 words and precise
+human: Explain in simple terms, what is LBW
+ai: LBW stands for Leg Before Wicket. It is a rule in cricket that allows the umpire to give a batsman out if the ball hits their leg in line with the stumps and would have gone on to hit the stumps. This rule is designed to prevent batsmen from using their legs to block the ball instead of their bat.
+human: what is no ball?
+ai: A "no ball" is an illegal delivery by the bowler. Common reasons include the bowler's front foot landing over the popping crease, or bowling a ball that's too high or dangerous. It results in a penalty run for the batting team and a "free hit" on the next delivery.
+human: exit

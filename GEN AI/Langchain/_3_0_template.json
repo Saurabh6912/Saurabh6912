@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "analysis_type",
+        "paper_input"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\nPlease analyse the UPSC paper of subject {paper_input} with the following specifications:\n    - Analysis Type: {analysis_type}\n    - Year Instruction: Refer the years of paper as per the requirement based on analysis type \n Subject Relevency: Look for the past year UPSC paper for asked subject.\n    - Max Look Back Year : Don't see the UPSC paper of before 2015.\n    - If certain information is not available, \n        respond with: \"Insufficient information available\" instead of guessing.\n    - Ensure the analysis of pattern for the subject is clear, accurate, and aligned with the provided analysis style\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

@@ -1,0 +1,18 @@
+#YT video Prompt to generate note
+Please give me the comprehesion notes about the topics and key points discussed in the video,
+so that i can understand the concept clearly and will be able to answer the question related to this in interview, 
+give in a way i can add in markdown in the jupyter notebook so that i can refer later on. be clear, 
+precise, accurate, relavent and updated as per current day.
+
+
+#once notes from yt gemini generated copy that and paste to general llm with prompt:
+This is the notes which is on the topic discussed in the youtube video based on this,
+please generate the notes that i can add in markdown of the jupyter notebook for my future reference.
+So that i can understand the concept clearly and will be able to answer the question related to this in interview
+
+
+#YT video Direct Notes generation
+Please generate a comprehensive notes for me for the things discussed in that vide, 
+the notes purpose of the use will be to revise the concept discussed in the video 
+and to be prepared for the interview questions on the topics. please generate intractive and easy to revise notes.
+

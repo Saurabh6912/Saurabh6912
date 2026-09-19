@@ -1,0 +1,47 @@
+# LangChain
+langchain
+langchain-core
+langchain-community
+langchain-experimental
+
+#LangGraph
+langgraph
+langgraph-checkpoint-sqlite
+
+# OpenAI Integration
+# langchain-openai
+# openai
+
+# Anthropic Integration
+# langchain-anthropic
+
+# Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+pydantic[email]
+
+#UI
+streamlit
+grandalf
+
+#vector database
+faiss-cpu #best and fast
+chromadb
+
+#Retrievers
+wikipedia
+
+#Tools
+ddgs
